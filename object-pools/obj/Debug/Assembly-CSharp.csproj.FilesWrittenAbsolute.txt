@@ -1,0 +1,17 @@
+/Users/julian/Documents/unity/tutorials/unity-fps/fps/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/julian/Documents/unity/tutorials/unity-fps/fps/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/julian/Documents/unity/tutorials/unity-fps/fps/obj/Debug/Assembly-CSharp.dll
+/Users/julian/Documents/unity/tutorials/unity-fps/fps/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/julian/Documents/unity/tutorials/unity-fps/fps/Temp/bin/Debug/UnityEngine.dll
+/Users/julian/Documents/unity/tutorials/unity-fps/fps/Temp/bin/Debug/UnityEditor.dll
+/Users/julian/Documents/unity/tutorials/unity-fps/fps/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/julian/Documents/unity/tutorials/unity-fps/fps/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/julian/Documents/unity/tutorials/unity-fps/fps/Temp/bin/Debug/Mono.Cecil.dll
+/Users/julian/Documents/unity/tutorials/unity-fps/fps/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/julian/Documents/unity/tutorials/unity-fps/fps/Temp/bin/Debug/Unity.DataContract.dll
+/Users/julian/Documents/unity/tutorials/unity-fps/fps/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/julian/Documents/unity/tutorials/unity-fps/fps/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/julian/Documents/unity/tutorials/unity-fps/fps/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/julian/Documents/unity/tutorials/unity-fps/fps/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/julian/Documents/unity/tutorials/unity-fps/fps/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/julian/Documents/unity/tutorials/unity-fps/fps/Temp/bin/Debug/Mono.Cecil.Mdb.dll
